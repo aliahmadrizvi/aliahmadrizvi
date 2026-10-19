@@ -46,7 +46,7 @@ I'm focused on strengthening my programming fundamentals, building web projects,
 My personal portfolio showcasing my background, skills, and development journey.
 
 - **Tech:** HTML, CSS, JavaScript and web technologies
-- **Live website:** [aliahamdrizvi.lovable.app](https://aliahamdrizvi.lovable.app)
+- **Live website:** [aliahamdrizvi.lovable.app](https://aliahmadrizvi.lovable.app)
 - **GitHub:** [Portfolio repositories](https://github.com/aliahmadrizvi?tab=repositories)
 
 ### DSA Practice

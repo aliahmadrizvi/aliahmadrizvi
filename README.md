@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey, I'm Ali Ahmad Rizvi 👋
 
-<!--
-**aliahmadrizvi/aliahmadrizvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Integral University, Lucknow, passionate about coding, web development, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning DSA, Java, and Python
+- 🌐 Building web development projects
+- 🤖 Working on Gohar AI, an agricultural AI assistant
+- 📊 Exploring Data Analytics
+- 🎯 Learning, building, and improving every day
+
+🛠️ Tech Stack
+
+C++ · Python · Java · HTML · CSS · JavaScript · Git · GitHub
+
+🚀 Featured Projects
+
+- 🌾 "Gohar AI" (https://github.com/aliahmadrizvi/Gohar)
+- 💻 "My GitHub Repositories" (https://github.com/aliahmadrizvi?tab=repositories)
+
+🤝 Connect With Me
+
+- "GitHub" (https://github.com/aliahmadrizvi)
+- "LinkedIn" (https://www.linkedin.com/in/ali-ahmad-rizvi-389311737/)
